@@ -1,8 +1,8 @@
 {
   "name": "messages",
   "version": "0.0.1",
-  "description": "",
-  "author": "",
+  "description": "This project was created for learning Nest.js",
+  "author": "Hruchman-Ruslan",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
